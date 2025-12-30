@@ -15,3 +15,8 @@ variable "component" {
 variable "rule_priority" {
 
 }
+
+
+variable "domain_name" {
+    default = "dawsjakkam.fun"
+}
